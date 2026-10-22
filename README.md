@@ -22,9 +22,9 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com) <!-- Add your exact profile link -->
-- 📺 [YouTube](https://youtube.com)   <!-- Add your channel link -->
-- 📧 **Email**: your-business-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/syntaxshell-577057403)
+- 📺 [YouTube](https://www.youtube.com/@TheSyntaxShell)
+- 📧 **Email**: d.rudra1312@gmail.com
 
 ---
 
