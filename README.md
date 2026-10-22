@@ -29,4 +29,4 @@
 ---
 
 ### 📈 GitHub Stats
-![SyntaxShell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyntaxShell&show_icons=true&theme=tokyonight)
+![SyntaxShell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyntaxShell&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
