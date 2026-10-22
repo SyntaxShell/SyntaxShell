@@ -24,7 +24,7 @@
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/syntaxshell-577057403)
 - 📺 [YouTube](https://www.youtube.com/@TheSyntaxShell)
-- 📧 **Email**: d.rudra1312@gmail.com
+- 📧 **Email**: thesyntaxshell@gmail.com
 
 ---
 
